@@ -27,6 +27,12 @@
   margin: 3px;
 }
 
+.blockquote {
+  margin: 20px 0;
+  padding-left: 1.5rem;
+  border-left: 4px solid #a1887f;
+}
+
 .footer {
   display: flex;
   justify-content: center;

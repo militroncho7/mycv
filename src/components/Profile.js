@@ -8,7 +8,7 @@ const Profile = () => {
                     <div className="card-image">
                         <img className="activator" src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1611935806/Logos%20VR/photo-linkedin_koilp7.jpg" alt="Victor M. Morales" />
                         <Link className="btn-floating halfway-fab waves-effect wave light brown lighten-2">
-                            <i className="material-icons activator">...</i>
+                            <i className="material-icons activator">+</i>
                         </Link>
                     </div>
                     <div className="card-content">
@@ -18,7 +18,7 @@ const Profile = () => {
                         <p className="grey-text text-darken-3"><strong>Desarrollador Web</strong></p>
                     </div>
                     <div className="card-reveal grey lighten-3">
-                        <span className="card-title brown-text text-lighten-2">
+                        <span className="card-title grey-text text-darken-3">
                             <b>Follow Me</b>
                             <i className="material-icons right">X</i>
                             <p className="flex-container">

@@ -4,21 +4,21 @@ import { HashLink as Link } from 'react-router-hash-link';
 const Educations = () => {
     return (
         <div>
-             <div className="card">
+             <div className="card grey lighten-3">
                 <div className="card-content">
-                    <h6><strong>EDUCATIONS</strong></h6>
+                    <h6 className="mt-bottom title"><strong>FORMACION</strong></h6>
                     <table className="striped">
                         <thead>
                             <tr>
-                                <th>Certificate</th>
-                                <th>Date</th>
+                                <th>Certificación</th>
+                                <th>Fecha</th>
                                 <th></th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Web Develoment</td>
-                                <td>Jan 2018</td>
+                                <td>IRONHACK. Bootcamp Desarollo Web</td>
+                                <td>Oct 2019 - Abr 2020</td>
                                 <td><Link to="#!" className="btn blue lighten-2">View</Link></td>
                             </tr>
                                 <tr>

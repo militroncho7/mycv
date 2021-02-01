@@ -26,12 +26,12 @@ const Navbar = () => {
                             </li>
                             <li>
                                 <Link to="/experiences">
-                                    <i className="fas fa-id-badge"></i> Experiences
+                                    <i className="fas fa-id-badge"></i> Experiencia
                                 </Link>
                             </li>
                             <li>
                                 <Link to="/educations">
-                                    <i className="fas fa-graduation-cap"></i> Educations
+                                    <i className="fas fa-graduation-cap"></i> Formación
                                 </Link>
                             </li>
                             <li>
