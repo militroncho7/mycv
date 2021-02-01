@@ -1,40 +1,47 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export default class About extends Component {
-    render() {
-        return (
-            <div>
-                <div className="card">
+const About = () => {
+    return (
+        <div>
+                <div className="card grey lighten-3">
                     <div className="card-content">
-                        <h6 className="mt-bottom">
-                            <strong>ABOUT ME</strong>
+                        <h6 className="mt-bottom title">
+                            <strong >SOBRE MÍ</strong>
                         </h6>
-                        <p className="grey-text">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                        when an unknown printer took a galley of type and scrambled it to make a type
-                        specimen book.
+                        <p className="grey-textdarken-1">
+                        <b>FullStack Developer: </b>
+                        Certificado en el bootcamp Part-Time en Ironhack Madrid, compaginándolo<br/>a la
+                        vez con mi actual trabajo en el Departamento de Compras de El Corte Ingles.<br/>
+                        Me gustaría seguir aprendiendo y desarrollándome como Front Developer realizando
+                        proyectos que me presenten retos. ¡Siempre en continuo aprendizaje! <br/>
+                        
+                        <br/>Especialidades: Javascript, ES6, NodeJS, MongoDB, React, Express, HTML,
+                        SASS, CSS, jQuery, Web Designer, Adobe Photoshop, Responsive.<br/>
+
+                        <br/>Os invito a visitar mis repositorios en
+                        <a href=" https://github.com/militroncho7"> mi GitHub</a> para concocerme un poco más
                         </p>
                     </div>
                     <div className="card-action">
-                        <h6>
-                            <strong>PERSONAL INFO</strong>
+                        <h6 className="mt-bottom title">
+                            <strong>INFORMACIÓN PERSONAL</strong>
                         </h6>
-                        <div className="row mt">
-                            <div className="col s12 m6 xl6">
-                                <p><strong>Address:</strong> 123 Lorem</p>
-                                <p><strong>Email:</strong> test@gmail.com</p>
-                                <p><strong>Phone:</strong> 617 68 88 77</p>
-                            </div>
-                            <div className="s12 m6 l6 xl6">
-                                <p><strong>Main Language:</strong> Spanish</p>
-                                <p><strong>Second Language:</strong> English</p>
-                                <p><strong>Third Language</strong> Chinese</p>
-                            </div>
+                    <div className="row mt">
+                        <div className="col s12 m6 xl6">
+                            <p><strong>Dirección:</strong> C/ Teruel 5, 3A</p>
+                            <p><strong>Torrejón de Ardoz,</strong> Madrid (28850)</p>
+                            <p><strong>Phone:</strong> 617 68 88 77</p>
+                        </div>
+                        <div className="s12 m6 l6 xl6">
+                            <p><strong>Email:</strong> vm.moralesruiz@gmail.com</p>
+                            <p><strong>Español:</strong> Competencia bilingüe nativa</p>
+                            <p><strong>Ingles:</strong> Competencia básica limitada</p>
                         </div>
                     </div>
                 </div>
             </div>
-        )
-    }
+        </div>
+    );
 }
+
+export default About;

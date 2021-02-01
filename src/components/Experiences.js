@@ -1,15 +1,14 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export default class Experiences extends Component {
-    render() {
-        return (
-            <div>
-                <div className="card">
+const Experiences = () => {
+    return (
+        <div>
+                <div className="card grey lighten-3">
                     <div className="card-content">
-                        <h6><strong>EXPERIENCES</strong></h6>
+                        <h6 className="mt-bottom title"><strong>EXPERIENCES</strong></h6>
                         <div className="row">
                             <div className="col s12 m4 xl4">
-                                <p className="teal year_exp white">
+                                <p className="teal year_exp grey lighten-3">
                                     Jan <strong>2016</strong> - March <strong>2017</strong>
                                 </p>
                             </div>
@@ -28,7 +27,7 @@ export default class Experiences extends Component {
                         </div>
                         <div className="row">
                             <div className="col s12 m4 xl4">
-                                <p className="teal year_exp white">
+                                <p className="teal year_exp grey lighten-3">
                                     Jan <strong>2018</strong> - March <strong>2020</strong>
                                 </p>
                             </div>
@@ -48,6 +47,7 @@ export default class Experiences extends Component {
                     </div>
                 </div>
             </div>
-        )
-    }
+    );
 }
+ 
+export default Experiences;

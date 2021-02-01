@@ -1,34 +1,36 @@
-import React, { Component } from 'react';
-// import Navbar from './Navbar';
-// import Profile from './Profile';
-// import About from './About';
-// import Skills from './Skills';
-// import Experiences from './Experiences';
-// import Educations from './Educations';
-// import Portfolio from './Portfolio';
+import React from 'react';
+import Navbar from './Navbar';
+import Profile from './Profile';
+import About from './About';
+import Skills from './Skills';
+import Experiences from './Experiences';
+import Educations from './Educations';
+import Portfolio from './Portfolio';
+import Footer from './Footer';
 
-export default class Home extends Component {
-    render() {
-        return (
-            <div>
-                <section>
-                <Navbar />
-                <div className="container">
-                    <div className="row">
-                        <div className="col s12 m4 l3">
-                            <Profile />
-                        </div>
-                        <div className="col s12 m8 l9">
-                            <About />
-                            <Skills />
-                            <Experiences />
-                            <Educations />
-                            <Portfolio />
-                        </div>
+const Home = () => {
+    return (
+        <div>
+            <section>
+            <Navbar />
+            <div className="container">
+                <div className="row">
+                    <div className="col s12 m4 l3">
+                        <Profile />
+                    </div>
+                    <div className="col s12 m8 l9">
+                        <About />
+                        <Skills />
+                        <Experiences />
+                        <Educations />
+                        <Portfolio />
                     </div>
                 </div>
-                </section>
             </div>
-        )
-    }
+            </section>
+            <Footer />
+        </div>
+    );
 }
+ 
+export default Home;

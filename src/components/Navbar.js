@@ -1,18 +1,17 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
 
-class Navbar extends Component {
-    render() {
-        return (
+const Navbar = () => {
+    return (
         <>
-            <nav className="light-blue darken-4">
+            <nav className="indigo darken-4">
                 <div className="container">
                     <div className="nav-wrapper">
                         <Link to="/" className="brand-logo">
-                            CV
+                            <img className="logo" src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610448149/Logos%20VR/LOGO_VR_Blanco_kzklcb.png" height="50px"/>
                         </Link>
                         <Link to="/" data-target="side-nav" className="sidenav-trigger">
-                            <i className="materual-icons">menu</i>
+                            <i className="material-icons"></i>
                         </Link>
                         <ul className="right hide-on-med-and-down">
                             <li>
@@ -44,7 +43,7 @@ class Navbar extends Component {
                     </div>
                 </div>
             </nav>
-            <ul className="sidenav" id="sidenav">
+            <ul className="sidenav" id="side-nav">
                             <li>
                                 <Link to="/">
                                     <i className="fas fa-home"></i> Home
@@ -72,8 +71,7 @@ class Navbar extends Component {
                             </li>
                         </ul>
         </>
-        );
-    }
+    );
 }
-
+ 
 export default Navbar;

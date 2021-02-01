@@ -11,17 +11,19 @@ import Portfolio from './components/Portfolio';
 
 function App() {
   return (
-    <Router>
-      <>
-        <Route exact path="/" component={Home} />
-        <Switch>
-          <Route path="/skills" component={Skills} />
-          <Route path="/educations" component={Educations} />
-          <Route path="/experiences" component={Experiences} />
-          <Route path="/portfolio" component={Portfolio} />
-        </Switch>
-      </>
-    </Router>
+    <>
+      <Router>
+        <>
+          <Route exact path="/" component={Home} />
+          <Switch>
+            <Route path="/skills" component={Skills} />
+            <Route path="/educations" component={Educations} />
+            <Route path="/experiences" component={Experiences} />
+            <Route path="/portfolio" component={Portfolio} />
+          </Switch>
+        </>
+      </Router>      
+    </>
   );
 }
 
