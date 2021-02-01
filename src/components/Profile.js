@@ -22,18 +22,32 @@ const Profile = () => {
                             <b>Follow Me</b>
                             <i className="material-icons right">X</i>
                             <p className="flex-container">
-                                <i className="fab fa-linkedin brown-text text-lighten-2 social-style"></i>
-                                <i className="fab fa-github brown-text text-lighten-2 social-style"></i>
-                                <i className="fab fa-instagram brown-text text-lighten-2 social-style"></i>
-                                <i className="fab fa-facebook-f brown-text text-lighten-2 social-style"></i>
+                                <a href="https://www.linkedin.com/in/victormmorales/" target="_blank">
+                                    <i className="fab fa-linkedin brown-text text-lighten-2 social-style"></i>
+                                </a>
+
+                                <a href="https://github.com/militroncho7" target="_blank">
+                                    <i className="fab fa-github brown-text text-lighten-2 social-style"></i>
+                                </a>                            
+                                
+                                <a href="https://www.instagram.com/militroncho7/" target="_blank">
+                                    <i className="fab fa-instagram brown-text text-lighten-2 social-style"></i>
+                                </a>
+                                
+                                <a href="https://www.facebook.com/milito.moralesruiz" target="_blank">
+                                    <i className="fab fa-facebook-f brown-text text-lighten-2 social-style"></i>
+                                </a>
                             </p>
                         </span>
-                    </div>
-                    <div className="card-image">                        
-                        <div className="card-content">
+                        <div className="card-image">                   
                             <img className="activator" src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1612112191/Logos%20VR/sobremi_2_do6yat.png" alt="Hobbies" />
                         </div>
                     </div>
+                    {/* <div className="card-image">                        
+                        <div className="card-content">
+                            <img className="activator" src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1612112191/Logos%20VR/sobremi_2_do6yat.png" alt="Hobbies" />
+                        </div>
+                    </div> */}
                 </div>                
             </div>
     );

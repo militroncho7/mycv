@@ -19,7 +19,7 @@ const About = () => {
                         SASS, CSS, jQuery, Web Designer, Adobe Photoshop, Responsive.</b><br/>
 
                         <br/>Os invito a visitar mis repositorios en
-                        <a href=" https://github.com/militroncho7"> mi GitHub</a> para concocerme un poco más
+                        <a href=" https://github.com/militroncho7"> mi GitHub</a> para concocerme un poco más.
                         </p>
                     </div>
                     <div className="card-action">
@@ -32,7 +32,7 @@ const About = () => {
                             <p><strong>Torrejón de Ardoz,</strong> Madrid (28850)</p>
                             <p><strong><b>Teléfono:</b></strong> 617 68 88 77</p>
                         </div>
-                        <div className="s12 m6 l6 xl6">
+                        <div className="col s12 m6 l6 xl6">
                             <p><strong><b>Email:</b></strong> vm.moralesruiz@gmail.com</p>
                             <p><strong><b>Español:</b></strong> Competencia bilingüe nativa</p>
                             <p><strong><b>Ingles:</b></strong> Competencia básica limitada</p>
