@@ -33,9 +33,9 @@ const About = () => {
                             <p><strong><b>Teléfono:</b></strong> 617 68 88 77</p>
                         </div>
                         <div className="s12 m6 l6 xl6">
-                            <p><strong>Email:</strong> vm.moralesruiz@gmail.com</p>
-                            <p><strong>Español:</strong> Competencia bilingüe nativa</p>
-                            <p><strong>Ingles:</strong> Competencia básica limitada</p>
+                            <p><strong><b>Email:</b></strong> vm.moralesruiz@gmail.com</p>
+                            <p><strong><b>Español:</b></strong> Competencia bilingüe nativa</p>
+                            <p><strong><b>Ingles:</b></strong> Competencia básica limitada</p>
                         </div>
                     </div>
                 </div>

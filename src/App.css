@@ -33,6 +33,15 @@
   border-left: 4px solid #a1887f;
 }
 
+.botton{
+  max-width: 70%;
+}
+@media (max-width: 576px) {
+  .botton{
+    max-width: 100%;
+  }
+}
+
 .footer {
   display: flex;
   justify-content: center;

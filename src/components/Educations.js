@@ -1,5 +1,4 @@
 import React from 'react';
-import { HashLink as Link } from 'react-router-hash-link';
 
 const Educations = () => {
     return (
@@ -17,24 +16,19 @@ const Educations = () => {
                         </thead>
                         <tbody>
                             <tr>
-                                <td>IRONHACK. Bootcamp Desarollo Web</td>
+                                <td><b>Udemy:</b> React-Hooks-Context-Redux-MERN</td>
+                                <td>Mar 2021 (44,5 horas)</td>
+                                <td><img src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1612209680/Logos%20VR/udemy_1_rnfwjg.png" width="70px" /></td>
+                            </tr>
+                            <tr>
+                                <td><b>IRONHACK:</b> Bootcamp Desarollo Web</td>
                                 <td>Oct 2019 - Abr 2020</td>
-                                <td><Link to="#!" className="btn blue lighten-2">View</Link></td>
-                            </tr>
-                                <tr>
-                                <td>Web Desing</td>
-                                <td>Jan 2019</td>
-                                <td><Link to="#!" className="btn blue lighten-2">View</Link></td>
+                                <td><img src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1612209476/Logos%20VR/IH_n54smr.png" width="40px" /></td>
                             </tr>
                             <tr>
-                                <td>Graphic Design</td>
-                                <td>May 2018</td>
-                                <td><Link to="#!" className="btn blue lighten-2">View</Link></td>
-                            </tr>
-                            <tr>
-                                <td>Other</td>
-                                <td>Sep 2020</td>
-                                <td><Link to="#!" className="btn blue lighten-2">View</Link></td>
+                                <td><b>URJC:</b> Grado Comunicación Audivisual</td>
+                                <td>Sept 2011 - May 2015</td>
+                                <td><img src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1612209680/Logos%20VR/urjc_opjqcl.png" width="40px" /></td>
                             </tr>
                         </tbody>
                     </table>

@@ -22,11 +22,10 @@ const Profile = () => {
                             <b>Follow Me</b>
                             <i className="material-icons right">X</i>
                             <p className="flex-container">
-                                <i className="fab fa-facebook-f brown-text text-lighten-2 social-style"></i>
-                                <i className="fab fa-twitter brown-text text-lighten-2 social-style"></i>
-                                <i className="fab fa-google-plus-g brown-text text-lighten-2 social-style"></i>
-                                <i className="fab fa-instagram brown-text text-lighten-2 social-style"></i>
                                 <i className="fab fa-linkedin brown-text text-lighten-2 social-style"></i>
+                                <i className="fab fa-github brown-text text-lighten-2 social-style"></i>
+                                <i className="fab fa-instagram brown-text text-lighten-2 social-style"></i>
+                                <i className="fab fa-facebook-f brown-text text-lighten-2 social-style"></i>
                             </p>
                         </span>
                     </div>
