@@ -28,7 +28,7 @@ const Portfolio = () => {
                                 <td>ReactJS-APIs-Hooks-<br/>
                                 Responsive</td>
                                 <td>
-                                    <a href="https://tender-curie-6812b3.netlify.app/" target="_blank" className="btn botton blue lighten-2">Ver</a>
+                                    <a href="https://tender-curie-6812b3.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
                             </tr>
                             <tr>
@@ -44,7 +44,7 @@ const Portfolio = () => {
                                 <td>ReactJS-APIs-<br/>
                                 Styled Components</td>
                                 <td>
-                                    <a href="https://practical-bell-6b3f44.netlify.app/" target="_blank" className="btn botton blue lighten-2">Ver</a>
+                                    <a href="https://practical-bell-6b3f44.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
                             </tr>
                             <tr>
@@ -58,7 +58,7 @@ const Portfolio = () => {
                                 <td>Consulta Clínica Veterinaria 🐶</td>
                                 <td>ReactJS-Hooks</td>
                                 <td>
-                                    <a href="https://ecstatic-jennings-eb4ec2.netlify.app/" target="_blank" className="btn botton blue lighten-2">Ver</a>
+                                    <a href="https://ecstatic-jennings-eb4ec2.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
                             </tr>
                         </tbody>
