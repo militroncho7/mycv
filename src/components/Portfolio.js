@@ -20,7 +20,7 @@ const Portfolio = () => {
                                 <td>ReactJS-APIs-Hooks<br/>
                                 Responsive</td>
                                 <td>
-                                    <a href="https://github.com/militroncho7/criptomonedas" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                    <a href="https://priceless-darwin-e9f1ee.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
                             </tr>
                             <tr>
