@@ -49,7 +49,7 @@ const Portfolio = () => {
                             </tr>
                             <tr>
                                 <td>Calcula tu seguro 🚘</td>
-                                <td>ReactJS-Hooks-Styled</td>
+                                <td>ReactJS-Hooks</td>
                                 <td>
                                     <a href="https://sleepy-meitner-329088.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>

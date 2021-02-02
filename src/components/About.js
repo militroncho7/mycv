@@ -28,9 +28,9 @@ const About = () => {
                         </h6>
                     <div className="row mt">
                         <div className="col s12 m6 xl6">
-                            <p><strong><b>Dirección:</b></strong> C/ Teruel 5, 3A</p>
-                            <p><strong>Torrejón de Ardoz,</strong> Madrid (28850)</p>
-                            <p><strong><b>Teléfono:</b></strong> 617 68 88 77</p>
+                            <p><strong><b>Torrejón de Ardoz</b>, Madrid (28850)</strong></p>
+                            <p><strong>Teléfono:</strong>617 68 88 77</p>
+                            <p><strong><b>Carnet Conducir:</b> B y A2</strong> </p>
                         </div>
                         <div className="col s12 m6 l6 xl6">
                             <p><strong><b>Email:</b></strong> vm.moralesruiz@gmail.com</p>
