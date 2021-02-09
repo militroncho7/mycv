@@ -12,7 +12,7 @@ const About = () => {
                         ¿Estás buscando una persona resolutiva, creativa e innovadora, con experiencia en el mundo laboral y con muchas ganas de aprender?<br/>
                         <br/>
                         Soy Víctor y después de trabajar en una empresa del retail, habiendo tenido la oportunidad de desarrollarme como profesional y promocionando en diferentes departamentos. Habiendo participado , colaborado y liderado equipos de personas, puedo aportar a tu proyecto esta experiencia.
-                        Ha llegado el momento de dar un cambio a mi carrera profesional. Llevo tiempo formándome para adaptarme al cambio del mercado laboral, para emprender este camino de desarrollador web.Después de acabar con éxito el Bootcamp de Web Dev en Ironhack Madrid, estoy preparado para meterme de lleno en este maravilloso mundo que tanto me hace disfrutar!<br/>
+                        Ha llegado el momento de dar un cambio a mi carrera profesional. Llevo tiempo formándome para adaptarme al cambio del mercado laboral, para emprender este camino de desarrollador web. Después de acabar con éxito el Bootcamp de Web Dev en Ironhack Madrid, estoy preparado para meterme de lleno en este maravilloso mundo que tanto me hace disfrutar!<br/>
                         <br/>
                         <b>FullStack Developer</b>, Javascript, ES6, NodeJS, MongoDB, React, Express, HTML, SASS, CSS, jQuery, Web Designer, Adobe Photoshop, Responsive.<br/>
                         <br/>

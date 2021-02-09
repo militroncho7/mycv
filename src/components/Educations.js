@@ -21,7 +21,7 @@ const Educations = () => {
                                 <td><img src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1612209680/Logos%20VR/udemy_1_rnfwjg.png" width="70px" /></td>
                             </tr>
                             <tr>
-                                <td><b>IRONHACK:</b> Bootcamp Desarollo Web</td>
+                                <td><b>Ironhack:</b> Bootcamp Desarollo Web</td>
                                 <td>Oct 2019 - Abr 2020</td>
                                 <td><img src="https://res.cloudinary.com/dhd9jgrw3/image/upload/v1612209476/Logos%20VR/IH_n54smr.png" width="40px" /></td>
                             </tr>

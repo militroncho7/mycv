@@ -32,6 +32,14 @@ const Portfolio = () => {
                                 </td>
                             </tr>
                             <tr>
+                                <td>Toy Hacker - Videojuego🕹 🦖</td>
+                                <td>Javascript<br/>
+                                HTML-CSS</td>
+                                <td>
+                                    <a href="https://militroncho7.github.io/toy-hacker-videogame/" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                </td>
+                            </tr>
+                            <tr>
                                 <td>Frases Breaking Bad 👨🏻‍🔬🧪</td>
                                 <td>ReactJS-APIs-Hooks-<br/>
                                 Responsive</td>
