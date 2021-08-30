@@ -16,6 +16,15 @@ const Portfolio = () => {
                         </thead>
                         <tbody>
                             <tr>
+                                <td>Admin. Proyectos </td>👨🏻‍💻
+                                <td>ReactJS-Context-Bakend<br/>
+                                Responsive</td>
+                                <td>
+                                    <a href="https://tusproyectos.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                </td>
+                            </tr>
+
+                            <tr>
                                 <td>Conversión Criptomonedas 💰</td>
                                 <td>ReactJS-APIs-Hooks<br/>
                                 Responsive</td>
