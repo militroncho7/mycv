@@ -17,8 +17,7 @@ const Portfolio = () => {
                         <tbody>
                             <tr>
                                 <td>Admin. Proyectos 👨🏻‍💻</td>
-                                <td>ReactJS-Context-Bakend<br/>
-                                Responsive</td>
+                                <td>ReactJS-Context-Bakend</td>
                                 <td>
                                     <a href="https://tusproyectos.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
@@ -34,8 +33,7 @@ const Portfolio = () => {
                             </tr>
                             <tr>
                                 <td>Frases de los Simpson 📺</td>
-                                <td>ReactJS-APIs-Hooks-<br/>
-                                Responsive</td>
+                                <td>ReactJS-APIs-Hooks</td>
                                 <td>
                                     <a href="https://tender-curie-6812b3.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
