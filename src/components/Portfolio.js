@@ -16,7 +16,7 @@ const Portfolio = () => {
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Admin. Proyectos </td>👨🏻‍💻
+                                <td>Admin. Proyectos 👨🏻‍💻</td>
                                 <td>ReactJS-Context-Bakend<br/>
                                 Responsive</td>
                                 <td>
