@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from './Navbar';
 import Profile from './Profile';
 import About from './About';
 import Skills from './Skills';
@@ -12,7 +11,6 @@ const Home = () => {
     return (
         <div>
             <section>
-            <Navbar />
             <div className="container">
                 <div className="row">
                     <div className="col s12 m4 l3">

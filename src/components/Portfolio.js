@@ -24,6 +24,14 @@ const Portfolio = () => {
                             </tr>
 
                             <tr>
+                                <td>Netflix Clone 🍿</td>
+                                <td>ReactJS-Context-Redux</td>
+                                <td>
+                                    <a href="https://netlfix-clone.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                </td>
+                            </tr>
+
+                            <tr>
                                 <td>Conversión Criptomonedas 💰</td>
                                 <td>ReactJS-APIs-Hooks<br/>
                                 Responsive</td>
