@@ -16,10 +16,18 @@ const Portfolio = () => {
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Admin. Proyectos 👨🏻‍💻</td>
+                                <td>Administrador de Proyectos 👨🏻‍💻</td>
                                 <td>ReactJS-Context-Bakend</td>
                                 <td>
                                     <a href="https://tusproyectos.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td>Proyecto REDUX 🌀</td>
+                                <td>ReactJS-Redux-Hooks</td>
+                                <td>
+                                    <a href="https://proyecto-redux.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
                             </tr>
 
