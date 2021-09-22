@@ -9,6 +9,7 @@ import Skills from './components/Skills';
 import Experiences from './components/Experiences';
 import Educations from './components/Educations';
 import Portfolio from './components/Portfolio';
+import Footer from './components/Footer';
 
 function App() {
   return (

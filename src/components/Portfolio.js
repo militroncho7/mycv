@@ -19,7 +19,15 @@ const Portfolio = () => {
                                 <td>Administrador de Proyectos 👨🏻‍💻</td>
                                 <td>ReactJS-Context-Bakend</td>
                                 <td>
-                                    <a href="https://tusproyectos.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                    <a href="https://github.com/militroncho7/tus-proyectos" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td>Trivago ✈️</td>
+                                <td>ReactJS-Gatsby-CMS</td>
+                                <td>
+                                    <a href="https://github.com/militroncho7/trivago" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
                             </tr>
 
@@ -27,7 +35,7 @@ const Portfolio = () => {
                                 <td>Proyecto REDUX 🌀</td>
                                 <td>ReactJS-Redux-Hooks</td>
                                 <td>
-                                    <a href="https://proyecto-redux.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                    <a href="https://github.com/militroncho7/redux" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
                             </tr>
 
@@ -36,6 +44,14 @@ const Portfolio = () => {
                                 <td>ReactJS-Context-Redux</td>
                                 <td>
                                     <a href="https://netlfix-clone.netlify.app/" target="_blank" className="btn botton indigo darken-4">Ver</a>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td>Proyecto NextJS 🌀</td>
+                                <td>ReactJS-Next</td>
+                                <td>
+                                    <a href="https://github.com/militroncho7/proyecto-next" target="_blank" className="btn botton indigo darken-4">Ver</a>
                                 </td>
                             </tr>
 
