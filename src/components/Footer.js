@@ -3,7 +3,6 @@ import React from 'react'
 const Footer = () => {
 
     const year = new Date().getFullYear();
-    console.log(year);
 
     return (
         <div className="footer indigo darken-4">
